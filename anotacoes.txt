@@ -1,0 +1,2 @@
+ls: listar diretórios
+git add: tracked-> staged
